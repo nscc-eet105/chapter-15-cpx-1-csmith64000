@@ -1,6 +1,6 @@
 
 # Christopher Smith
-# Chapter 15 - CPX Classes Part 2
+# Chapter 15 - CPX Lab Part 2
 # 7/15/2025
 
 
